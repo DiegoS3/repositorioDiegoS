@@ -1,0 +1,1 @@
+Primero he instalado Git, despues he creado una carpeta para el proyecyo y dentro de ella usando el bash he creado un subdirectorio, posteriormente he creado el repositorio de Git y mostrado la estructura que se ha generado, he configurado git con mi usuario y correo y por ultimo mostrado la ayuda
